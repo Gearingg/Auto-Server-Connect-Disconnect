@@ -22,8 +22,6 @@ Follow the Script Instructions: Once the script is running, follow the instructi
 STEP 6:
 You're Done! After following the instructions in the script, you should be successfully connected to the selected server.
 
-Here's how you can write the points effectively in a README file:
-
 [Important Notes]
 Make sure to read and understand the following before using the bot:
 
