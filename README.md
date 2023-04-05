@@ -2,12 +2,7 @@
 Just a Simple Script to join and disconnect from the server on its own
 This script can be used to stay afk on Any Server
 
-██████╗ ███████╗     ██╗ █████╗ ██╗███╗  ██╗  ██████╗  █████╗ ████████╗
-██╔══██╗██╔════╝     ██║██╔══██╗██║████╗ ██║  ██╔══██╗██╔══██╗╚══██╔══╝
-██████╔╝█████╗       ██║██║  ██║██║██╔██╗██║  ██████╦╝██║  ██║   ██║
-██╔══██╗██╔══╝  ██╗  ██║██║  ██║██║██║╚████║  ██╔══██╗██║  ██║   ██║
-██║  ██║███████╗╚█████╔╝╚█████╔╝██║██║ ╚███║  ██████╦╝╚█████╔╝   ██║
-╚═╝  ╚═╝╚══════╝ ╚════╝  ╚════╝ ╚═╝╚═╝  ╚══╝  ╚═════╝  ╚════╝    ╚═╝
+Correct Way to Run the BOT
 
 STEP 1:
 Get Server Coordinates: Use any method to obtain the coordinates of the server location where you want to select servers from.
