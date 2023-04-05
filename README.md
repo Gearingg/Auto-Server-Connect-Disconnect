@@ -6,14 +6,19 @@ Correct Way to Run the BOT
 
 STEP 1:
 Get Server Coordinates: Use any method to obtain the coordinates of the server location where you want to select servers from.
+
 STEP 2:
 Get Join Button Coordinates: Obtain the coordinates of the Join Server button.
+
 STEP 3:
 Get Disconnect Button Coordinates: Obtain the coordinates of the Disconnect button.
+
 STEP 4:
 Run the Script: Run the script by typing the command python automate_server.py in the command prompt or terminal.
+
 STEP 5:
 Follow the Script Instructions: Once the script is running, follow the instructions provided to complete the automated server selection and connection process.
+
 STEP 6:
 You're Done! After following the instructions in the script, you should be successfully connected to the selected server.
 
