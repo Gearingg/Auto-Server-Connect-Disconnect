@@ -2,6 +2,8 @@
 Just a Simple Script to join and disconnect from the server on its own
 This script can be used to stay afk on Any Server
 
+ITS A WINDOWS ONLY BOT ⚠
+
 Correct Way to Run the BOT
 
 STEP 1:
